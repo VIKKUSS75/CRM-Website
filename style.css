@@ -1,0 +1,122 @@
+#header{
+    background: linear-gradient(to right, rgb(113,163,247),rgb(8,75,188));
+    
+}
+
+#header ul li{
+    display: inline-block;
+    
+}
+#header a{
+    text-decoration: none;
+    color: white;
+    padding-top: 10px;
+}
+#header .nav-item a:hover{
+    border: 1px solid white;
+    padding-left: 8px;
+   
+}
+#header #logo-img{
+    width: 100px !important;
+    border: 0px solid green;
+}
+#banner{
+    background: linear-gradient(to right, rgb(113,163,247),rgb(8,75,188));
+    padding-top: 50px;
+
+}
+#banner h2{
+    text-align: center;
+    color: white;
+    font-style: 20px;
+    font-family: 'Kdam Thmor Pro', sans-serif;;
+}
+#banner p{
+    font-size: 15px;
+    color:white;
+}
+#banner img{
+    width: 200px;
+   
+}
+
+#banner #img1{
+    width: 100%;
+}
+
+#services h2{
+    font-family:'Kdam Thmor Pro', sans-serif;
+    font-size: 25px;
+    transition-property:font-size;
+    transition-duration: 2s;
+}
+#services h2:hover{
+    font-size: 40px;
+}
+#services img{
+    width: 100px;
+    height: 100px;
+    padding-bottom: 12px;
+}
+#services h3{
+    font-size: 20px;
+    color:green;
+}
+#services p{
+    font-size: 15px;
+    color: green;
+}
+#testi h2{
+    font-family:'Kdam Thmor Pro', sans-serif;
+    font-size: 25px;
+    transition-property:font-size;
+    transition-duration: 2s;
+}
+#testi h2:hover{
+    font-size: 40px;
+}
+#testi span{
+    color: green;
+    font-weight: bolder;
+}
+#testi p{
+    font-size: 15px;
+    color: green;
+}
+#testi img{
+    padding-top: 13px;
+    padding-bottom: 13px;
+    width: 200px;
+    border-radius: 50%;
+}
+#footer{
+    background: linear-gradient(to right, rgb(113,163,247),rgb(8,75,188));
+}
+
+#footer img{
+    width: 100%;
+}
+#footer h2{
+    color: white;
+    font-size: 15px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+#footer #logo{
+    padding-bottom: 10px;
+    width: 100px;
+}
+#footer p{
+    color: white;
+    font-size: 12px;
+}
+#footer #footerp img{
+    width: 50px;
+}
+#footer .icon{
+    font-size: 20px;
+}
+#profileimg{
+    width: 100px;
+    border-radius: 50%;
+}
